@@ -11,7 +11,7 @@
                    TextColor="Gray" />
 
             <Label x:Name="AvailabilityLabel" FontSize="13" LineBreakMode="WordWrap" />
-            <Label x:Name="ResultLabel" FontSize="14" FontAttributes="Bold" TextColor="{StaticResource Primary}" />
+            <Label x:Name="ResultLabel" FontSize="14" FontAttributes="Bold" TextColor="#512BD4" />
 
             <Entry x:Name="TextEntry" Placeholder="Text to share" Text="Hello from SharePlus" />
             <Entry x:Name="TitleEntry" Placeholder="Title" Text="SharePlus" />

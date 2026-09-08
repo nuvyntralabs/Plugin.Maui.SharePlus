@@ -229,7 +229,7 @@ dotnet build samples/Plugin.Maui.SharePlus.Sample/Plugin.Maui.SharePlus.Sample.c
 dotnet pack src/Plugin.Maui.SharePlus/Plugin.Maui.SharePlus.csproj -c Release -o artifacts
 ```
 
-The `.nupkg` is written to `artifacts/Plugin.Maui.SharePlus.1.0.0.nupkg`.
+The `.nupkg` is written to `artifacts/Plugin.Maui.SharePlus.1.0.4.nupkg`.
 
 ## License
 
