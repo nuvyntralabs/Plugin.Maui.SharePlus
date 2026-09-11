@@ -7,7 +7,7 @@ Share for .NET MAUI that goes beyond MAUI `Share`: title, subject, MIME type, pr
 - Package: `Plugin.Maui.SharePlus`
 - NuGet: https://www.nuget.org/packages/Plugin.Maui.SharePlus
 - GitHub: https://github.com/nuvyntralabs/Plugin.Maui.SharePlus
-- Paper: https://niladripadhy.vercel.app/opensource/plugin-maui-share-plus
+- Paper: https://nuvyntralabs.github.io/packages/plugin-maui-share-plus/
 - Catalog: https://github.com/nuvyntralabs/MauiEssentials
 - Versions: net10.0, net10.0-android (API 21+), net10.0-ios (iOS 15+)
 
